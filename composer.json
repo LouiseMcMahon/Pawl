@@ -1,5 +1,5 @@
 {
-  "name": "ratchet/pawl",
+  "name": "louisemcmahon/pawl",
   "description": "Asynchronous WebSocket client",
   "keywords": [
 	"WebSocket",
