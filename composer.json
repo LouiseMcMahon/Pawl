@@ -28,7 +28,7 @@
 	"phpunit/phpunit": "^9.3 || ^5.7 || ^4.8"
   },
   "replace": {
-    "ratchet/pawl": "self.version"
+    "ratchet/pawl": "*"
   },
   "suggest": {
 	"reactivex/rxphp": "~2.0"
